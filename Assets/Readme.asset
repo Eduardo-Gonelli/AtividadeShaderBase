@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94e623ca1cc09a44e876581b0b45ec1e, type: 3}
+  m_Name: Readme
+  m_EditorClassIdentifier: 
+  icon: {fileID: 0}
+  title: Projeto base para atividade de Shader
+  sections:
+  - heading: Sobre o projeto
+    text: "Este projeto em branco com um personagem \xE9 usado para cria\xE7\xE3o
+      de um cen\xE1rio com shaders constru\xEDdos pelos alunos."
+    linkText: 
+    url: 
+  - heading: Sobre o script do personagem
+    text: "S\xE3o utilizados neste projeto os scripts do asset Kinematic Character
+      Controller, disponibilizado gratuitamente na Asset Store da Unity. Aten\xE7\xE3o,
+      n\xE3o utilizar este projeto para fins comerciais. Caso deseje usar o asset
+      para fins comerciais, acesse o link oficial e importe-o para seu projeto."
+    linkText: Kinematic Character Controller
+    url: https://assetstore.unity.com/packages/tools/physics/kinematic-character-controller-99131
+  loadedLayout: 1
